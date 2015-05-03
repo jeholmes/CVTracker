@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CVTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="available_datasets">
+        <item>dataset1</item>
+        <item>dataset2</item>
+        <item>dataset3</item>
+        <item>dataset4</item>
+        <item>dataset5</item>
+        <item>dataset6</item>
+        <item>dataset7</item>
+        <item>dataset8</item>
+        <item>dataset9</item>
+        <item>dataset10</item>
+        <item>dataset11</item>
+        <item>dataset12</item>
+    </string-array>
+
+</resources>
